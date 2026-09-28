@@ -1,0 +1,9 @@
+{
+  "name": "genpark-huffman-coding-entropy-tree-skill",
+  "version": "1.0.0",
+  "description": "Canonical Huffman coding tree generation, prefix-free binary bitstream packer, and Shannon entropy",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
